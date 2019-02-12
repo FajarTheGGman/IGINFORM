@@ -8,7 +8,6 @@
 1.apt-get install git -y
 2.git clone https://github.com/FajarTheGGman/IGINFORM
 3.cd GITINFORM
-4.chmod +x install.sh
-5. ./install.sh
-6.node ig
+4.sh install
+5.node ig
 </pre>
