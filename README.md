@@ -1,8 +1,7 @@
 # IGINFORM
 #Simple program to see information ig profile with javascript language
 
-![alt text](https://github.com/FajarTheGGman/IGINFORM/blob/master/.image/32323.PNG)
-
+![alt text](https://github.com/FajarTheGGman/IGINFORM/blob/master/.image/535.jpeg)
 # Tutorial install
 <pre>
 1.apt-get install git -y
